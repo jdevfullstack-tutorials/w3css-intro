@@ -31,5 +31,5 @@ result right away <https://jsfiddle.net/>
 or W3schools 
 <https://www.w3schools.com/tryit/tryit.asp?filename=tryhtml_hello>
 
-the result is just like this,
-![image](https://user-images.githubusercontent.com/47092464/146556237-053bd096-fc45-4970-b0b6-16c8ab706e8f.png)
+this is the sample screenshot,
+![image](https://user-images.githubusercontent.com/47092464/146556416-3c05b18c-2cc7-4c03-b6b7-8635c9898ff6.png)
