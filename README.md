@@ -33,3 +33,9 @@ or W3schools
 
 this is the sample screenshot,
 ![image](https://user-images.githubusercontent.com/47092464/146556416-3c05b18c-2cc7-4c03-b6b7-8635c9898ff6.png)
+
+as you can see just by adding the line 
+
+`<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">`
+
+you are already set and start your project right away.
