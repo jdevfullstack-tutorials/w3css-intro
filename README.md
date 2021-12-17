@@ -7,6 +7,22 @@ Having read only the introduction, I realized this
 is really great, just by adding it to your HTML,
 you can start using it.
 
+Added information when you are a beginner, in
+web development, the FrontEnd is the UI, so that,
+instead of using the commandline, you can display
+your content in such a way that it is a presentable
+website and with buttons and other components that
+you can interact with.
+
+CSS is Cascading Style Sheet to add styling to your HTML.
+HTML is the skeleton of your website, it was
+derived from SGML (Standardized General Markup Language)
+so you can tell the computer that, for example, 
+a certain word is 
+a paragraph the other one is the heading.
+JavaScript is the script to automate your HTML code
+or to make it dynamic.
+
 ## Basic Setup
 So let's have a basic Hello World
 
