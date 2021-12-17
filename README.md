@@ -1,10 +1,11 @@
 # Intro To W3.CCS
 When I was starting to learn Bootstrap for my GitHub App,
-I came across this CSS Framework that will simplify
-my medium-sized project.
+I came across this CSS Framework. In my mind, if 
+there is anything lighter than Bootstrap, then
+it will the best. 
 
 Having read only the introduction, I realized this 
-is really great, just by adding it to your HTML,
+is really great, just by adding the link to your HTML,
 you can start using it.
 
 Added information when you are a beginner, in
