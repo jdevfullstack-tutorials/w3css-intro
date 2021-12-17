@@ -58,7 +58,12 @@ as you can see just by adding the line
 
 you are already set and start your project right away.
 
-## Useful Links
-<https://blog.hubspot.com/website/w3-css-vs-bootstrap>
+## Start Learning At W3Schools
+It's best to learn W3.CSS at W3Schools, because they created it! Enjoy!
 
 <https://www.w3schools.com/w3css/>
+
+## Usefull Links
+<https://blog.hubspot.com/website/w3-css-vs-bootstrap>
+
+
