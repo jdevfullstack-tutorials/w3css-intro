@@ -33,7 +33,7 @@ or W3schools
 
 this is the sample screenshot,
 
-<img width="472" alt="temp3" src="https://user-images.githubusercontent.com/47092464/146557993-5c4f254c-c57c-47d2-a12c-439cb40753ec.png">
+<img width="720" alt="temp3" src="https://user-images.githubusercontent.com/47092464/146558248-13597ff2-9afe-4422-833b-6ea9cdc2525a.png">
 
 as you can see just by adding the line 
 
