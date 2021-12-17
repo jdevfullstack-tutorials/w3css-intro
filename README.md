@@ -39,3 +39,8 @@ as you can see just by adding the line
 `<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">`
 
 you are already set and start your project right away.
+
+## Useful Links
+<https://blog.hubspot.com/website/w3-css-vs-bootstrap>
+
+<https://www.w3schools.com/w3css/>
