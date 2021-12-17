@@ -63,7 +63,7 @@ It's best to learn W3.CSS at W3Schools, because it's theirs! Enjoy!
 
 <https://www.w3schools.com/w3css/>
 
-## Usefull Links
+## Useful Links
 <https://blog.hubspot.com/website/w3-css-vs-bootstrap>
 
 
