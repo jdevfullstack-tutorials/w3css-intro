@@ -1,16 +1,16 @@
-# Intro To W3.CCS
+# Intro To W3.CSS
 When I was starting to learn Bootstrap for my GitHub App,
 I came across this CSS Framework. In my mind, if 
 there is anything lighter than Bootstrap, then
-it will the best. 
+it will be the best. 
 
 Having read only the introduction, I realized this 
-is really great, just by adding the link to your HTML,
+is really great. Just by adding the link to your HTML,
 you can start using it.
 
 Added information when you are a beginner, in
 web development, the FrontEnd is the UI, so that,
-instead of using the commandline, you can display
+instead of using the command line, you can display
 your content in such a way that it is a presentable
 website and with buttons and other components that
 you can interact with.
@@ -45,7 +45,7 @@ So let's have a basic Hello World
 you can use JSFiddle to run the code to see the 
 result right away <https://jsfiddle.net/>
 
-or W3schools 
+or W3Schools 
 <https://www.w3schools.com/tryit/tryit.asp?filename=tryhtml_hello>
 
 this is the sample screenshot,
@@ -59,7 +59,7 @@ as you can see just by adding the line
 you are already set and start your project right away.
 
 ## Start Learning At W3Schools
-It's best to learn W3.CSS at W3Schools, because they created it! Enjoy!
+It's best to learn W3.CSS at W3Schools, because it's theirs! Enjoy!
 
 <https://www.w3schools.com/w3css/>
 
