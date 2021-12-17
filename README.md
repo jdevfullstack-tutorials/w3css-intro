@@ -32,7 +32,8 @@ or W3schools
 <https://www.w3schools.com/tryit/tryit.asp?filename=tryhtml_hello>
 
 this is the sample screenshot,
-![image](https://user-images.githubusercontent.com/47092464/146556416-3c05b18c-2cc7-4c03-b6b7-8635c9898ff6.png)
+
+<img width="472" alt="temp3" src="https://user-images.githubusercontent.com/47092464/146557993-5c4f254c-c57c-47d2-a12c-439cb40753ec.png">
 
 as you can see just by adding the line 
 
