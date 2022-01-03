@@ -1,7 +1,8 @@
 # Intro To W3.CSS
 When I was starting to learn Bootstrap for my GitHub App,
 I came across this CSS Framework. In my mind, if 
-there is anything lighter than Bootstrap, then
+there is anything lighter than Bootstrap but with 
+comparable quality, then
 it will be the best. 
 
 Having read only the introduction, I realized this 
