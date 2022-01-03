@@ -1,5 +1,5 @@
 # Intro To W3.CSS
-When I was starting to learn Bootstrap for my GitHub App,
+When I was learning Bootstrap for my GitHub App,
 I came across this CSS Framework. In my mind, if 
 there is anything lighter than Bootstrap but with 
 comparable quality, then
