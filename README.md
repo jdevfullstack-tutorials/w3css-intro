@@ -9,7 +9,7 @@ Having read only the introduction, I realized this
 is really great. Just by adding the link to your HTML,
 you can start using it.
 
-Added information when you are a beginner, in
+Also for beginners, additional information: in
 web development, the FrontEnd is the UI, so that,
 instead of using the command line, you can display
 your content in such a way that it is a presentable
