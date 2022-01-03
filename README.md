@@ -19,9 +19,9 @@ you can interact with.
 CSS is Cascading Style Sheet to add styling to your HTML.
 HTML is the skeleton of your website, it was
 derived from SGML (Standardized General Markup Language)
-so you can tell the computer that, for example, 
-a certain word is 
-a paragraph the other one is the heading.
+so you can tell the computer that  
+your text document should be displayed as an organized
+document not plain text.
 JavaScript is the script to automate your HTML code
 or to make it dynamic.
 
